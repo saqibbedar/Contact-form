@@ -29,6 +29,6 @@ Follow these steps to integrate the responsive contact forms into your project:
 
 ## License
 
-This repository is licensed under the `MIT License` - see the [LICENSE.md](https://github.com/saqibbedar/WebDev-Projects?tab=MIT-1-ov-file) file for details.
+This repository is licensed under the `MIT License` - see the [LICENSE.md](https://github.com/saqibbedar/Contact-form?tab=MIT-1-ov-file) file for details.
 
 Happy coding! 🚀
