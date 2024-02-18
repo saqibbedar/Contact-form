@@ -2,13 +2,14 @@
 
 A collection of responsive HTML contact forms with an emphasis on clean and appealing user interfaces.
 
-## Contact form 1:
+## Contact form:
 
 ![form1](/forms.png)
 
-## Contact form 2:
+## Contact form 1:
 
 ![form2](https://github.com/saqibbedar/Contact-form/assets/124094939/43b2fc71-eccd-4e89-9253-e87275b7a73d)
+
 
 ## Features
 
