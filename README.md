@@ -12,7 +12,7 @@ Watch a quick demo [here](https://saqibbedar.github.io/Contact-form/form.html)
 
 ![form2](https://github.com/saqibbedar/Contact-form/assets/124094939/43b2fc71-eccd-4e89-9253-e87275b7a73d)
 
-Watch a quick demo [here](https://saqibbedar.github.io/Contact-form/Contact-from1/index.html)  
+<div style="font-style:bold">Watch a quick demo [here](https://saqibbedar.github.io/Contact-form/Contact-from1/index.html)</div>
 
 ## Features
 
@@ -23,12 +23,21 @@ Easy to integrate into your web projects.
 
 ## Getting Started
 
-Follow these steps to integrate the responsive contact forms into your project:
+To get started with this project, simply clone this repository:
 
-1. Choose the desired form (Form 1 or Form 2).
-2. Copy the provided HTML code snippet.
-3. Paste it into your HTML file or project.
-4. Customize the form as needed.
+```md 
+git clone https://github.com/saqibbedar/Contact-form
+```
+
+
+## Support Me
+I am computer science student and I do share these types of projects here on github for free. All of my github code is licensed under `MIT License`. It takes me a great time to create these types of projects so, I am pretty sure! you would support me for the efforts I am putting. Thanks in advance for your support.
+
+<a href="https://www.buymeacoffee.com/saqibbedar"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=saqibbedar&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00"></a>
+
+## Contributing 😍
+
+Contributions are welcome! Please feel free to submit a pull request.
 
 ## License
 
