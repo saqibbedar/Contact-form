@@ -29,6 +29,9 @@ To get started with this project, simply clone this repository:
 git clone https://github.com/saqibbedar/Contact-form
 ```
 
+## See also
+HTML form with JavaScript validation, [click here →](https://github.com/saqibbedar/form-validation)
+Check out live demo [here →](https://saqibbedar.github.io/form-validation/).
 
 ## Support Me
 I am computer science student and I do share these types of projects here on github for free. All of my github code is licensed under `MIT License`. It takes me a great time to create these types of projects so, I am pretty sure! you would support me for the efforts I am putting. Thanks in advance for your support.
